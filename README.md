@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>Quem sou eu❓</h1>
+<p>Meu nome é <b>Natã</b> sou de <b>Joinville - SC</b>, gosto de programação, fiz um curso de Desenvolvimento Web no <b>IOS Joinville</b>, parceira da empresa <b>TOTVS</b>.
+Agora nesse momento estou estudando a linguagem de programação <b>Java</b>, gosto de ajudar e ensinar as pessoas na programação caso eu saiba.</p>
 
-<!--
-**liweisen119/liweisen119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liweisen119)](https://github.com/liweisen119/github-readme-stats)
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<blockquote>
+  <h1>Projetos</h1>
+<ul>
+  <li>Sem um projeto sólido, porém estudando para fazer futuramente.</li>
+</ul>
+</blockquote>
+
+<h1>O que você encontrará aqui❓</h1>
+<blockquote>
+  <ul>
+    <li>Alguns de meus projetos</li>
+    <li>Meus estudos em Java, HTML, CSS e JS.</li>
+  </ul>
+</blockquote>
+          

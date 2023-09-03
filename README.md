@@ -14,13 +14,6 @@ Agora nesse momento estou estudando a linguagem de programação <b>Java</b>, go
 
 <hr>
 
-<blockquote>
-  <h1>Projetos</h1>
-<ul>
-  <li>Sem um projeto sólido, porém estudando para fazer futuramente.</li>
-</ul>
-</blockquote>
-
 <h1>O que você encontrará aqui❓</h1>
 <blockquote>
   <ul>
@@ -29,7 +22,14 @@ Agora nesse momento estou estudando a linguagem de programação <b>Java</b>, go
   </ul>
 </blockquote>
 
-<h1>Meu estudos em Java</h1>
+<h1>Projetos</h1>
+<blockquote>
+  <a href="https://github.com/liweisen119/project-cec" style="font-size: 100px">Project-cec</a>
+  <p>Projeto que fiz para amigos, para a venda de ebooks.</p>
+  
+</blockquote>
+
+<h1>Meu estudos</h1>
 <blockquote>
   <a href="https://github.com/liweisen119/estudos-java" style="font-size: 100px">Estudos-Java</a>
   <p>Estudos na linguagem Java.</p>

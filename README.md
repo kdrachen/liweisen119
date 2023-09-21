@@ -25,13 +25,18 @@ Agora nesse momento estou estudando a linguagem de programação <b>Java</b>, go
 <h1>Projetos</h1>
 <blockquote>
   <a href="https://github.com/liweisen119/appbanco" style="font-size: 100px">appbanco</a>
-  <p>Projeto de um aplicativo de banco pelo console Java.</p>
+  <br>
+  Projeto de um aplicativo de banco pelo console Java.
+  <br><br>
   
   <a href="https://github.com/liweisen119/project-cec" style="font-size: 100px">Project-cec</a>
-  <p>Projeto que fiz para amigos, para a venda de ebooks.</p>
   <br>
+  Projeto que fiz para amigos, para a venda de ebooks.
+  <br>
+
   <a href="https://github.com/liweisen119/TCC/tree/main/TCC" style="font-size: 100px">TCC-IOS</a>
-  <p>Projeto antigo de TCC, não arrumei ele.</p>
+  <br>
+  Projeto antigo de TCC, não arrumei ele.
 </blockquote>
 
 <h1>Meu estudos</h1>
